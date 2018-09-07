@@ -1,0 +1,29 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# dep
+/vendor/
+
+# bin
+debug
+main
+
+# .DS_Store
+*.DS_Store
+
+# dist
+dist
+dist.zip
+
+# static files
+*.txt
+*.mp4
