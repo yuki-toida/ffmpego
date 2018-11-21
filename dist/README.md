@@ -20,11 +20,9 @@ brew install ffmpeg
 sh build.sh
 ```
 
-* distフォルダに実行ファイル一式が出力される
+* distフォルダが作成されるので
 
 ## 実行方法
-
-* distフォルダに移動する
 
 * inputフォルダに連結したいmp4ファイルをコピーする
 

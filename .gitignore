@@ -20,10 +20,6 @@ main
 # .DS_Store
 *.DS_Store
 
-# dist
-dist
-dist.zip
-
 # static files
 *.txt
 *.mp4
